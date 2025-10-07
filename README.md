@@ -26,9 +26,9 @@ code: ["Java", "Python", "JavaScript", "C"]
 technologies: {
   backend: ["Spring Boot", "FastAPI"],
   frontend: ["React.js", "HTML5", "CSS3"],
-  database: ["MySQL", "MongoDB", "Redis"],
+  database: ["MySQL", "MongoDB"],
   cloud: ["AWS", "Docker", "Kubernetes"],
-  ml: ["scikit-learn", "XGBoost", "MLflow", "TensorFlow"]
+  ml: ["scikit-learn", "MLflow", "Pytorch"]
 }
 current_focus: "Building scalable ML pipelines & microservices"
 fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
@@ -56,7 +56,7 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
@@ -72,7 +72,7 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 ### 🗄️ **Database Mastery**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7da7d2.gif" width="100">
 
@@ -240,10 +240,22 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-**Thanks for visiting my digital universe!** 🚀
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                    🌟 THANKS FOR VISITING! 🌟               ║
+║                                                              ║
+║  ⭐ Star my repos if you find them interesting               ║
+║  🤝 Let's collaborate on exciting projects                   ║
+║  💬 Always open to discussing new ideas & opportunities     ║
+║                                                              ║
+║           Let's code the future, one commit at a time! 🚀   ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <img src="https://komarev.com/ghpvc/?username=shreyashkashyapanand01&style=for-the-badge&color=00FFFF" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" />
+
+<sub>✨ <strong>Crafted with 💙 by Shreyash Kashyap</strong> | Last Updated: October 2025 ✨</sub>
 
 </div>
