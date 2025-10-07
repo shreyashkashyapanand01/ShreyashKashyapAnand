@@ -3,7 +3,7 @@
 
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SHREYASH%20KASHYAP&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Tech%20Innovator&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&width=90%&height=300&section=header&text=SHREYASH%20KASHYAP&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Tech%20Innovator&descAlignY=51&descAlign=62)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&random=false&width=600&height=80&lines=Hey+there!+I'm+Shreyash+Kashyap+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;Machine+Learning+Enthusiast+%F0%9F%A4%96;Spring+Boot+%7C+React+%7C+AI+Explorer!)](https://git.io/typing-svg)
 
