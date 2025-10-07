@@ -253,6 +253,7 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 ```
 
 <img src="https://komarev.com/ghpvc/?username=shreyashkashyapanand01&style=for-the-badge&color=00FFFF" />
+<sub>✨ <strong>Crafted with 💙 by Shreyash Kashyap</strong> | Last Updated: October 2025 ✨</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" />
 
