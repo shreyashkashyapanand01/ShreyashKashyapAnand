@@ -1,5 +1,21 @@
 # <div align="center">
 
+<div align="center">
+
+```ascii
+ ____  _                             _       _  __          _                      
+/ ___|| |__  _ __ ___ _   _  __ _ ___| |__   | |/ /__ _ ___ | |__  _   _  __ _ _ __  
+\___ \| '_ \| '__/ _ \ | | |/ _` / __| '_ \  | ' // _` / __|| '_ \| | | |/ _` | '_ \ 
+ ___) | | | | | |  __/ |_| | (_| \__ \ | | | | . \ (_| \__ \| | | | |_| | (_| | |_) |
+|____/|_| |_|_|  \___|\__, |\__,_|___/_| |_| |_|\_\__,_|___/|_| |_|\__, |\__,_| .__/ 
+                      |___/                                        |___/      |_|    
+```
+
+**`Full Stack Developer | ML Engineer | B.Tech CSE'26 | Open Source Enthusiast`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Crafting+intelligent+ML+solutions;Mastering+cloud-native+architectures;Turning+coffee+into+production-ready+code)](https://git.io/typing-svg)
+
+</div>
 
 
 
@@ -253,10 +269,12 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 ```
 
 <img src="https://komarev.com/ghpvc/?username=shreyashkashyapanand01&style=for-the-badge&color=00FFFF" />
-<sub>✨ <strong>Crafted with 💙 by Shreyash Kashyap</strong> | Last Updated: October 2025 ✨</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" />
 
+<div align="center">
 <sub>✨ <strong>Crafted with 💙 by Shreyash Kashyap</strong> | Last Updated: October 2025 ✨</sub>
+</div>
+
 
 </div>
