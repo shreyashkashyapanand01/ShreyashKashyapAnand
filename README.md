@@ -18,11 +18,10 @@
 name: "Shreyash Kashyap"
 location: "Bhubaneswar, India 🇮🇳"
 education: "B.Tech Computer Science @ KIIT University"
-cgpa: "8.25/10"
 role: "Full Stack Developer & ML Engineer"
 code: ["Java", "Python", "JavaScript", "C"]
 technologies: {
-  backend: ["Spring Boot", "FastAPI", "Flask"],
+  backend: ["Spring Boot", "FastAPI"],
   frontend: ["React.js", "HTML5", "CSS3"],
   database: ["MySQL", "MongoDB", "Redis"],
   cloud: ["AWS", "Docker", "Kubernetes"],
